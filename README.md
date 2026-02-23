@@ -57,7 +57,7 @@ Designed and implemented a realtional database system that:
 
 ## How to Run Locally (SQL Server/ SSMS)
 1. Create a new database in SSMS (ex. 'planet3_gym_management').
-2. Run 'sql/01_create_tables.sql
+2. Run 'sql/01_create_tables.sql'
 3. Run 'sql/02_insert_data.sql'
 4. Run 'sql/03_stored_procedures.sql'
 
