@@ -1,3 +1,11 @@
+/* 
+01_create_table.sql
+Project: Planet 3 Gym Analytics System
+
+Prupose:Creates all relational tables required for the Planet 3 operational database,
+including members, trainers, subscriptions, payments, scheduling, and equipment tracking. 
+*/
+
 CREATE TABLE Employee ( EMP_ID integer primary key, EMP_FName varchar(50), EMP_LName varchar(50), EMP_Phone varchar(50), SUPERVISOR_ID integer FOREIGN KEY (SUPERVISOR_ID) REFERENCES Employee(EMP_ID) ); 
 
 CREATE TABLE Equipment ( Equip_ID integer , Equip_Status varchar(50), Last_Check_Date Date, EMP_ID integer, PRIMARY KEY (Equip_ID, Last_Check_Date), FOREIGN KEY (EMP_ID) REFERENCES Employee(EMP_ID) ); 
