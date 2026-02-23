@@ -1,3 +1,9 @@
+/*
+02_insert_data.sql
+Purpose: Seed the Planet 3 database with sample data fo developemtn and reporting.
+Note: This is sample/demo data used for project purposes.
+*/
+
 INSERT INTO Employee VALUES (1, 'Joe', 'Mama', '567-788-8888', Null); INSERT INTO Employee VALUES (2, 'Zach', 'Thomas', '567-888-8998', 1); INSERT INTO Employee VALUES (3, 'John', 'Green', '419-757-7778', 1); INSERT INTO Employee VALUES (4, 'Sally', 'Yu', '419-928-9800', 2); INSERT INTO Employee VALUES (5, 'Jack', 'Yi', '567-200-2025', 3); INSERT INTO Employee VALUES (6, 'Lola', 'Strong', '567-909-9008', 4); INSERT INTO Employee VALUES (7, 'Lilo', 'Aluha', '567-898-2734', 5); INSERT INTO Employee VALUES (8, 'Nana', 'Poppins', '567-208-9256', 6);
 
 INSERT INTO Equipment VALUES (101, 'Available', '2025-04-01', 1); INSERT INTO Equipment VALUES (102, 'Under Maintenance', '2025-04-01', 3); INSERT INTO Equipment VALUES (103, 'Out of Order', '2025-04-01', 5); INSERT INTO Equipment VALUES (104, 'Available', '2025-04-01', 4); INSERT INTO Equipment VALUES (105, 'Available', '2025-04-01', 7); INSERT INTO Equipment VALUES (106, 'Calibration Needed', '2025-04-01', 1); INSERT INTO Equipment VALUES (107, 'Under Maintenance', '2025-04-01', 1); INSERT INTO Equipment VALUES (108, 'Available', '2025-04-01', 2); INSERT INTO Equipment VALUES (109, 'Available', '2025-04-01', 2); INSERT INTO Equipment VALUES (110, 'Available', '2025-04-01', 1); INSERT INTO Equipment VALUES (111, 'Available', '2025-04-01', 3); INSERT INTO Equipment VALUES (112, 'Available', '2025-04-01', 1); INSERT INTO Equipment VALUES (113, 'Available', '2025-04-01', 4); INSERT INTO Equipment VALUES (114, 'Available', '2025-04-01', 5); INSERT INTO Equipment VALUES (115, 'Available', '2025-04-01', 4); INSERT INTO Equipment VALUES (116, 'Available', '2025-04-01', 4); 
