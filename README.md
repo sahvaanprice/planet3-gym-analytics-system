@@ -67,16 +67,16 @@ EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
 ### Membership Overview
-![Membership Overview](powerbi/dashboard_screenshots/membership_overview_original.png)
+![Membership Overview](powerbi/dashboard/membership_overview_original.png)
 
 ### Class Registration
-![Class Registration](powerbi/dashboard_screenshots/class_registration_original.png)
+![Class Registration](powerbi/dashboard/class_registration_original.png)
 
 ### Revenue by Subscription
-![Revenue](powerbi/dashboard_screenshots/revenue_by_subscription_original.png)
+![Revenue](powerbi/dashboard/revenue_by_subscription_original.png)
 
 ### Next Payment Due
-![Next Payment](powerbi/dashboard_screenshots/next_payment_due_original.png)
+![Next Payment](powerbi/dashboard/next_payment_due_original.png)
 
 ---
 
