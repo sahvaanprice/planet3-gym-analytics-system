@@ -60,7 +60,17 @@ Designed and implemented a realtional database system that:
 
 ---
 
-##Project Context
+## How to Run Locally (SQL Server/ SSMS)
+1. Create a new database in SSMS (ex. 'planet3_gym_management').
+2. Run 'sql/01_create_tables.sql
+3. Run 'sql/02_insert_data.sql'
+4. Run 'sql/03_stored_procedures.sql'
+
+To test the stored procedure:
+'''sql
+EXEC dbo.DaysUntilNextPayment;
+
+## Project Context
 Orginally developed as a collaborative group system analysis project.
 
 Portfolio version maintined and enhanced by Sahvaan Price, including:
