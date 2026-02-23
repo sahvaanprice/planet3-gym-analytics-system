@@ -28,6 +28,14 @@ Designed and implemented a realtional database system that:
 
 ---
 
+## My Role
+- Database development
+- Report creation and analytics design
+- Data modeling implementation
+- Power BI dashboard development
+
+----
+
 #System Features
 - Relational Database Design
 - Business Rules Modeling
@@ -47,19 +55,6 @@ Designed and implemented a realtional database system that:
 
 ---
 
-## My Role
-- Database development
-- Report creation and analytics design
-- Data modeling implementation
-- Power BI dashboard development
-
----
-
-## Dashboard Preivew
-*(Coming Soon)*
-
----
-
 ## How to Run Locally (SQL Server/ SSMS)
 1. Create a new database in SSMS (ex. 'planet3_gym_management').
 2. Run 'sql/01_create_tables.sql
@@ -69,6 +64,17 @@ Designed and implemented a realtional database system that:
 To test the stored procedure:
 '''sql
 EXEC dbo.DaysUntilNextPayment;
+
+## Dashboard Preivew
+*(Coming Soon)*
+
+---
+
+## Documentation
+
+- Original Project Proposal: `docs/project_proposal_original.pdf`
+
+---
 
 ## Project Context
 Orginally developed as a collaborative group system analysis project.
