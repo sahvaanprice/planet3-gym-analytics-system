@@ -66,7 +66,17 @@ To test the stored procedure:
 EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
-*(Coming Soon)*
+### Membership Overview
+![Membership Overview](powerbi/dashboard_screenshots/membership_overview_original.png)
+
+### Class Registration
+![Class Registration](powerbi/dashboard_screenshots/class_registration_original.png)
+
+### Revenue by Subscription
+![Revenue](powerbi/dashboard_screenshots/revenue_by_subscription_original.png)
+
+### Next Payment Due
+![Next Payment](powerbi/dashboard_screenshots/next_payment_due_original.png)
 
 ---
 
