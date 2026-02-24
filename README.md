@@ -44,6 +44,12 @@ Designed and implemented a realtional database system that:
 - Store Procedures for payment tracking
 - Analytics dashboard for operational insights
 
+### Business Process Flow
+![Business Flow](business-process-flowchart/planet3_business_process_flowchart.png)
+
+### Entity Relationship Diagram (ERD)
+![ERD](ERD/planet3_erd.png)
+
 ---
 
 ## Technologies Used
@@ -66,6 +72,8 @@ To test the stored procedure:
 EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
+###![Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
+
 ### Membership Overview
 ![Membership Overview](powerbi/dashboard/membership_overview_original.png)
 
