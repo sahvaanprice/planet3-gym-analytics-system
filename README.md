@@ -48,7 +48,7 @@ Designed and implemented a realtional database system that:
 ![Business Flow](business-process-flowchart/planet3_business_process_flowchart.png)
 
 ### Entity Relationship Diagram (ERD)
-![ERD](ERD/planet3_erd.png)
+![ERD](erd/planet3_erd.png)
 
 ---
 
@@ -73,7 +73,7 @@ EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
 ### Executive Overview 
-[Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
+![Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
 
 ### Membership Overview 
 ![Membership Overview](powerbi/dashboard/membership_overview_original.png)
