@@ -72,9 +72,10 @@ To test the stored procedure:
 EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
-###![Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
+### Executive Overview 
+[Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
 
-### Membership Overview
+### Membership Overview 
 ![Membership Overview](powerbi/dashboard/membership_overview_original.png)
 
 ### Class Registration
