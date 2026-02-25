@@ -36,7 +36,7 @@ Designed and implemented a realtional database system that:
 
 ----
 
-#System Features
+## System Features
 - Relational Database Design
 - Business Rules Modeling
 - Entity Relationship Diagram (ERD)
@@ -58,6 +58,7 @@ Designed and implemented a realtional database system that:
 - Data Modeling & Normalization
 - Business Ssytem Analysis
 - Database Design
+- AI-Assisted Development Workflow
 
 ---
 
