@@ -105,6 +105,11 @@ Portfolio version maintined and enhanced by Sahvaan Price, including:
 - Power BI Analytics dashboard
 - System refinements and documentation improvements
 
+## Data Disclaimer
+All data used in this project is synthetically generated 
+for educational and portfolio purposes only. No real 
+individuals, organizations, or proprietary datasets are included.
+
 ## Author
 Sahvaan Price
 Information Systems | Data Analysis | Business Systems Analysis
