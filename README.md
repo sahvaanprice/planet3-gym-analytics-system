@@ -74,7 +74,7 @@ EXEC dbo.DaysUntilNextPayment;
 
 ## Dashboard Preivew
 ### Executive Overview 
-![Executive Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
+![Executive Updated Dashboard](powerbi/dashboard/planet3_Gym_Executive_dashboard.png)
 
 ### Membership Overview 
 ![Membership Overview](powerbi/dashboard/membership_overview_original.png)
@@ -93,6 +93,7 @@ EXEC dbo.DaysUntilNextPayment;
 ## Documentation
 
 - Original Project Proposal: `docs/project_proposal_original.pdf`
+- Refined Project Proposal: 'docs/planet3_project_proposal_updated.pdf'
 
 ---
 
