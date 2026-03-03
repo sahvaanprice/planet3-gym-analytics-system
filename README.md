@@ -93,7 +93,7 @@ EXEC dbo.DaysUntilNextPayment;
 ## Documentation
 
 - Original Project Proposal: `docs/project_proposal_original.pdf`
-- Refined Project Proposal: 'docs/planet3_project_proposal_updated.pdf'
+- Refined Project Proposal: 'docs/planet3_project_proposal_update.pdf'
 
 ---
 
